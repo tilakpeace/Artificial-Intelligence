@@ -74,6 +74,8 @@ Every technology has some disadvantages, and the same goes for Artificial intell
 
 - No Original Creativity: As humans are so creative and can imagine some new ideas but still AI machines cannot beat this power of human intelligence and cannot be creative and imaginative.
 
+
+# History
 Year | Milestone / Innovation 
 --- | --- 
 1923 | Karel Čapek play named “Rossum's Universal Robots” (RUR) opens in London, first use of the word "robot" in English.
@@ -92,3 +94,76 @@ Year | Milestone / Innovation
 1997 | The Deep Blue Chess Program beats the then world chess champion, Garry Kasparov.
 2000 | Interactive robot pets become commercially available. MIT displays Kismet, a robot with a face that expresses emotions. The robot Nomad explores remote regions of Antarctica and locates meteorites.
 
+
+# Foundations of AI
+1) Philosophy
+- Logic, reasoning, mind as a physical system, foundations of learning, language and rationality.
+- some example
+  - Where does knowledge come from?
+  - How does knowledge lead to action?
+  - How does mental mind arise from physical brain?
+  - Can formal rules be used to draw valid conclusions?
+
+2) Mathematics
+- Formal representation and proof algorithms, computation, undecidability, intractability, probability.
+- some example
+  - What are the formal rules to draw the valid conclusions?
+  - What can be computed?
+  - How do we reason with uncertain information?
+
+3) Economics
+- Formal theory of rational decisions, game theory, operation research.
+- some example
+  - How should we make decisions so as to maximize payoff?
+  - How should we do this when others may not go along?
+  - How should we do this when the payoff may be far in future?
+
+4) Neuroscience
+- Physical substrate for mental activities
+- some example
+  - How do brains process information?
+
+
+5) Psychology
+- Adaptation, phenomena of perception and motor control.
+- some example
+  - How do humans and animals think and act?
+
+
+6) Computer Engineering
+- Operational computer and operational programmable computer
+- some example
+  - How can we build an efficient computer?
+
+
+7) Control theory
+- Homeostatic systems, stability, optimal agent design
+- some example
+  - How can artifacts operate under their own control?
+
+8) Linguistic
+- Knowledge representation, grammar
+- some example
+  - How does language relate to thought?
+
+# Applications of AI
+AI has been dominant in various fields such as −
+
+- Gaming − AI plays a crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where machines can think of a large number of possible positions based on heuristic knowledge.
+
+- Natural Language Processing − It is possible to interact with a computer that understands natural language spoken by humans.
+
+- Expert Systems − There are some applications which integrate machine, software, and special information to impart reasoning and advising. They provide explanations and advice to the users.
+
+- Vision Systems − These systems understand, interpret, and comprehend visual input on the computer. 
+  For example,
+  - A spying airplane takes photographs, which are used to figure out spatial information or map of the areas.
+  - Doctors use a clinical expert system to diagnose the patient.
+  - Police use computer software that can recognize the face of a criminal with the stored portrait made by a forensic artist.
+
+
+- Speech Recognition − Some intelligent systems are capable of hearing and comprehending the language in terms of sentences and their meanings while a human talks to it. It can handle different accents, slang words, noise in the background, change in human’s noise due to cold, etc.
+
+- Handwriting Recognition − The handwriting recognition software reads the text written on paper by a pen or on screen by a stylus. It can recognize the shapes of the letters and convert it into editable text.
+
+- Intelligent Robots − Robots are able to perform the tasks given by a human. They have sensors to detect physical data from the real world such as light, heat, temperature, movement, sound, bump, and pressure. They have efficient processors, multiple sensors and huge memory, to exhibit intelligence. In addition, they are capable of learning from their mistakes and they can adapt to the new environment.
