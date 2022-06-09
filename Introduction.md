@@ -73,3 +73,22 @@ Every technology has some disadvantages, and the same goes for Artificial intell
 - Increase dependency on machines: With the increment of technology, people are getting more dependent on devices and hence they are losing their mental capabilities.
 
 - No Original Creativity: As humans are so creative and can imagine some new ideas but still AI machines cannot beat this power of human intelligence and cannot be creative and imaginative.
+
+Year | Milestone / Innovation 
+--- | --- 
+1923 | Karel Čapek play named “Rossum's Universal Robots” (RUR) opens in London, first use of the word "robot" in English.
+1943 | Foundations for neural networks laid.
+1945 | Isaac Asimov, a Columbia University alumni, coined the term Robotics.
+1950 | Alan Turing introduced Turing Test for evaluation of intelligence and published Computing Machinery and Intelligence. Claude Shannon published Detailed Analysis of Chess Playing as a search.
+1956 | John McCarthy coined the term Artificial Intelligence. Demonstration of the first running AI program at Carnegie Mellon University.
+1958 | John McCarthy invents LISP programming language for AI.
+1964 | Danny Bobrow's dissertation at MIT showed that computers can understand natural language well enough to solve algebra word problems correctly.
+1965 | Joseph Weizenbaum at MIT built ELIZA, an interactive problem that carries on a dialogue in English.
+1969 | Scientists at Stanford Research Institute Developed Shakey, a robot, equipped with locomotion, perception, and problem solving.
+1973 | The Assembly Robotics group at Edinburgh University built Freddy, the Famous Scottish Robot, capable of using vision to locate and assemble models.
+1979 | The first computer-controlled autonomous vehicle, Stanford Cart, was built.
+1985 | Harold Cohen created and demonstrated the drawing program, Aaron.
+1990 | Major advances in all areas of AI  − Significant demonstrations in machine learning - Case-based reasoning - Multi-agent planning - Scheduling - Data mining, Web Crawler - natural language understanding and translation - Vision, Virtual Reality - Games
+1997 | The Deep Blue Chess Program beats the then world chess champion, Garry Kasparov.
+2000 | Interactive robot pets become commercially available. MIT displays Kismet, a robot with a face that expresses emotions. The robot Nomad explores remote regions of Antarctica and locates meteorites.
+
